@@ -1,5 +1,0 @@
-name: em82-environment
-
-dependencies:
-  -numpy
-  -matplotlib
